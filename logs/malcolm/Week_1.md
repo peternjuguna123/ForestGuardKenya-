@@ -18,5 +18,5 @@ The phase should include:
 
 I have gained a better understanding of the Link Budget analysis. My next step should be to document the calculation steps while noting all
 the necessary parameters needed to perform the link budget. (Should also include any assumptions made). There are also online calculators to 
-aid in the calculations. These should also be cited properly in the document. Once I have the minimum gain needed I should jumo into the
+aid in the calculations. These should also be cited properly in the document. Once I have the minimum gain needed I should jump into the
 antenna modelling and simulation.
