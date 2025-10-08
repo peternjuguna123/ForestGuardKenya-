@@ -1,8 +1,7 @@
 # Week 2 Log (Peter Njuguna)
 
 **Period:** 28th September – 4th October 2025  
-**Project:** TAFITI Nanosatellite Bench Model  
-**Location:** JKUAT – TAFITI Project Lab  
+**Project:** TAFITI Nanosatellite Bench Model   
 
 ---
 
