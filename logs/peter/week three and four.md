@@ -1,4 +1,4 @@
-"""# Week 3 & 4 (28th Sept – 11th Oct 2025)
+# Week 3 & 4 (28th Sept – 11th Oct 2025)
 
 ## Objectives
 - To achieve reliable image transmission between different devices using LoRa.
@@ -36,5 +36,5 @@
 - Implement and test **ESP-to-ESP LoRa image transmission** with SD card data storage.  
 - Advance PCB design and refine footprint creation in EasyEDA.  
 - Begin **OBC simulation** in Proteus once PCB foundation is ready.  
-"""
+
 
